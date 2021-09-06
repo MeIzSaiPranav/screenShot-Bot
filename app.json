@@ -7,20 +7,14 @@
  "logo": " https://telegra.ph/file/53effe59faaa2590545b1.jpg",
 
  "keywords": [
-
    "telegram",
-
    "Screenshot",
-
    "Sample video",
-
    "Trim Video",
-
    "without downloading the entire file"
-
   ],
 
-  "repository": "https://github.com/sahadz/screenShot-Bot",
+  "repository": "https://github.com/MeIzSaiPranav/screenShot-Bot",
 
   "env": {
 
